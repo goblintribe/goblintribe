@@ -6,11 +6,11 @@
   "attributes": [
     {
       "trait_type": "Level",
-      "value": 2
+      "value": "2"
     },
     {
       "trait_type": "Token Claimable",
-      "value": 1782550000000
+      "value": "1782550000000"
     }
   ]
 }
