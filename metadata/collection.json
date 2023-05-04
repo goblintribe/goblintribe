@@ -3,4 +3,6 @@
   "description": "If you wish to join the goblin army, simply take off the notice. The Goblin King will reward every brave warrior who does so.",
   "image": "https://raw.githubusercontent.com/goblintribe/goblintribe/main/metadata/goblinPASS.jpg",
   "external_link": "https://www.goblin-tribe.xyz/"
+  "seller_fee_basis_points": "1000"
+  "fee_recipient": "0x8628716F0c4F6bdD60C8e15AEA5691A8B4BBf7C4"
 }
