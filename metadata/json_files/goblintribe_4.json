@@ -1,12 +1,18 @@
 {
   "description": "If you wish to join the goblin army, simply take off the notice. The Goblin King will reward every brave warrior who does so.",
-  "external_url": "goblin-tribe.xyz",
+  "external_url": "https://www.goblin-tribe.xyz/",
   "animation_url": "https://raw.githubusercontent.com/goblintribe/goblintribe/main/metadata/goblinPASS.jpg",
   "name": "Goblin Tribe",
   "attributes": [
     {
+      "display_type": "number",
       "trait_type": "Level",
       "value": 4
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Token Claimable",
+      "value": 1296400000000
     }
   ]
 }
